@@ -10,6 +10,10 @@
 
 **Launch on Solana. Settle on Robinhood Chain. Buy back PONS.**
 
+| Test reference | Solana mint address |
+|---|---|
+| **V1** | `BYY9699AuAArjVfiBBUaUYtvs1Eiv8MmjUyJ1mMDpons` |
+
 </div>
 
 PonsPump Beta extends Pons beyond its native Robinhood Chain environment through a Solana launch experience built in collaboration with **Pump.fun**. Tokens are created and traded using the Pump.fun launch infrastructure, while Pons supplies the launch interface, cross-chain accounting, fee settlement, and a dedicated mechanism for acquiring **PONS on Robinhood Chain**.
@@ -171,7 +175,7 @@ Examples already used in the Pons Solana testing documentation:
 
 | Test reference | Solana mint address |
 |---|---|
-| **V1** | `` |
+| **V1** | `BYY9699AuAArjVfiBBUaUYtvs1Eiv8MmjUyJ1mMDpons` |
 
 > **Naming convention.** Pons may display a launch as `--pons` in marketing or user-interface copy. The two hyphens are a visual separator only. They are **not part of the mint address**: Solana public keys use Base58, which does not include `-`.
 
