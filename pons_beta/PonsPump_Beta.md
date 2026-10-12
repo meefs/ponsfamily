@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/logo.png" width="96" />
+<img src="logo.png" width="96" />
 
 # PonsPump Beta
 
