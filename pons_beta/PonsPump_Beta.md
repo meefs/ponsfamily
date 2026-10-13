@@ -12,7 +12,7 @@
 
 | Test reference | Solana mint address |
 |---|---|
-| **V1** | `` |
+| **V1** | `Do5hM2rEsoBvWhPUqpy2sRHvTiUbXekmWMQ8TMZnpons` |
 
 </div>
 
