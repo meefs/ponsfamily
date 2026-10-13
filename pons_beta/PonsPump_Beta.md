@@ -175,7 +175,7 @@ Examples already used in the Pons Solana testing documentation:
 
 | Test reference | Solana mint address |
 |---|---|
-| **V1** | `` |
+| **V1** | `Do5hM2rEsoBvWhPUqpy2sRHvTiUbXekmWMQ8TMZnpons` |
 
 > **Naming convention.** Pons may display a launch as `--pons` in marketing or user-interface copy. The two hyphens are a visual separator only. They are **not part of the mint address**: Solana public keys use Base58, which does not include `-`.
 
