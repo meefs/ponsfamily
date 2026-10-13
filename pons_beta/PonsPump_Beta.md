@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="96" />
 
-# PonsPump Beta
+# Pons x Pump Beta
 
 **The first hybrid Pons launch experience on Solana.**
 
